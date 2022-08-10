@@ -6,3 +6,5 @@ hide_hero: true
 ---
 
 ## Tools
+
+without hero
