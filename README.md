@@ -1,3 +1,9 @@
+---
+layout: page
+title: The page title
+subtitle: The page subtitle
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Joerg-Schultz/ComputerAssistedAnimalTraining/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
