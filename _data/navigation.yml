@@ -1,5 +1,7 @@
 - name: Tools
   link: /tools.html
+- name: Index
+  link: index.html
 - name: Training Plans
   link: /blog/
   dropdown: 
