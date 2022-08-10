@@ -1,0 +1,7 @@
+- name: Tools
+  link: /tools/
+- name: Training Plans
+  link: /blog/
+  dropdown: 
+    - name: Page 2
+      link: /page-2/
