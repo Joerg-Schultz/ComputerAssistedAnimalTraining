@@ -1,9 +1,9 @@
 - name: Tools
   link: /tools.html
-- name: Index
-  link: index.html
-- name: Training Plans
-  link: /blog/
+- name: Training
+  link: /training.html
   dropdown: 
-    - name: Page 2
-      link: /page-2/
+    - name: Medical
+      link: /training/medical.html
+    - name: Spezialist
+      link: /training/spezialist.html
