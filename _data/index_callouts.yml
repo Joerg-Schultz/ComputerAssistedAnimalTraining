@@ -1,0 +1,15 @@
+style: is-light
+height: is-medium
+items:
+  - title: Tools
+    subtitle: Overview of tools
+    description: Tools developed
+    call_to_action_name: See Tools
+    call_to_action_link: /tools/tools.html
+  - title: Training
+    subtitle: Computer assisted traiing examples
+    description: >
+      The example description text goes here and can be multiple lines.
+      For example, such as this.
+    call_to_action_name: Training Overview
+    call_to_action_link: /training/training.html

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: (Animal) training is simple, but not easy
-subtitle: (Bob Bailey)
+title: Training is simple, but not easy
+subtitle: (<i>Bob Bailey</i>)
+callouts: index_callouts
 ---
 
 # Computer Assisted Animal Training
