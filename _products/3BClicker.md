@@ -4,7 +4,7 @@ subtitle: Two Button Bluetooth Clicker
 description: PlanTrainDoc - Hands free!
 product_code: 3BClicker
 layout: product
-image: https://via.placeholder.com/640x480
+image: ./3BClickerNoBkg.png
 features:
 - label: Record Success and Resets
 - label: Connect to the PTD App via Bluetooth
