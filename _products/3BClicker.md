@@ -13,3 +13,7 @@ features:
 This Clicker enables you to (i) mark the correct behaviours as a standard clicker. As it is connected
 to the PTD App, it records every success. With the second button, you also record every reset, thereby
 collect your data while you train.
+
+<video controls width="240" height="320" >
+<source src="/videos/3BClicker_facebook.mp4">
+</video>
