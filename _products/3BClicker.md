@@ -15,5 +15,5 @@ to the PTD App, it records every success. With the second button, you also recor
 collect your data while you train.
 
 <video controls width="240" height="320" >
-<source src="/videos/3BClicker_facebook.mp4">
+<source src="/ComputerAssistedAnimalTraining/videos/3BClicker_facebook.mp4">
 </video>

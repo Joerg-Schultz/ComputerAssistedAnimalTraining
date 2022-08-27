@@ -10,5 +10,5 @@ features:
 ---
 
 <video controls width="240" height="320" >
-<source src="/videos/PTDTreater.mp4">
+<source src="/ComputerAssistedAnimalTraining/videos/PTDTreater.mp4">
 </video>
