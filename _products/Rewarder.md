@@ -9,6 +9,6 @@ features:
 - label: Connect to the PTD App via Bluetooth
 ---
 
-<video controls width="240" height="320" >
+<video controls width="640" height="480" >
 <source src="/ComputerAssistedAnimalTraining/videos/PTDTreater.mp4">
 </video>
