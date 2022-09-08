@@ -1,6 +1,7 @@
 ---
 title: Tools
 hero_image: /ComputerAssistedAnimalTraining/images/dogGlassesMedium_jamie-street-MoDcnVRN5JU-unsplash.jpg
+hero_darken: true
 layout: product-category
 show_sidebar: false
 ---
