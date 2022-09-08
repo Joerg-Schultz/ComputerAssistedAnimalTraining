@@ -4,7 +4,6 @@ title: Training made easier
 subtitle: with technology
 hero_image: /ComputerAssistedAnimalTraining/images/DogComputer_kyle-hanson-1pyqUh8Jx3E-unsplash.jpg
 ---
-New Image
 # Computer Assisted Animal Training 
 ## What it can do for you
 ### Make your training easier

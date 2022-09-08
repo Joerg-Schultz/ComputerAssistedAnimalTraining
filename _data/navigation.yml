@@ -7,3 +7,9 @@
       link: /training/medical.html
     - name: Spezialist
       link: /training/spezialist.html
+- name: About
+  dropdown:
+    - name: Contact
+      link: contact.html
+    - name: Privacy Policy
+      link: privacy.html
