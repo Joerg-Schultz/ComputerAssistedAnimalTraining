@@ -1,7 +1,7 @@
 ---
 title: 3BClicker
 subtitle: Two Button Bluetooth Clicker
-hero_image: /ComputerAssistedAnimalTraining/images/RunningWestie_joe-caione-qO-PIF84Vxg-unsplash_medium.jpg
+hero_image: /ComputerAssistedAnimalTraining/images/RunningWestie_joe-caione-qO-PIF84Vxg-unsplash.jpg
 description: PlanTrainDoc - Hands free!
 product_code: 3BClicker
 layout: product
