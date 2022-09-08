@@ -8,3 +8,5 @@ collections:
     show_sidebar: false
 
 footer_menu: footer
+
+navbar: is-dark
