@@ -1,6 +1,6 @@
 ---
 title: Tools
-subtitle: Hardware to make your training easier
+hero_image: /ComputerAssistedAnimalTraining/images/kyle-hanson-1pyqUh8Jx3E-unsplash_medium.jpg
 layout: product-category
 show_sidebar: false
 ---

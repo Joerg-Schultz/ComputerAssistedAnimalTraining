@@ -2,7 +2,7 @@
 layout: page
 title: Training is simple, but not easy
 subtitle: (<i>Bob Bailey</i>)
-hero_image: /ComputerAssistedAnimalTraining/images/kyle-hanson-1pyqUh8Jx3E-unsplash_medium.jpg
+hero_image: /ComputerAssistedAnimalTraining/images/cristian-castillo-73pyV0JJOmE-unsplash_medium.jpg
 ---
 
 ## Training made easier - with technology
