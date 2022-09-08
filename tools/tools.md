@@ -1,6 +1,6 @@
 ---
 title: Tools
-hero_image: /ComputerAssistedAnimalTraining/images/kyle-hanson-1pyqUh8Jx3E-unsplash_medium.jpg
+hero_image: /ComputerAssistedAnimalTraining/images/dogGlassesMedium_jamie-street-MoDcnVRN5JU-unsplash.jpg
 layout: product-category
 show_sidebar: false
 ---
