@@ -2,10 +2,10 @@
 layout: page
 title: Training is simple, but not easy
 subtitle: (<i>Bob Bailey</i>)
-hero_image: /ComputerAssistedAnimalTraining/images/cristian-castillo-73pyV0JJOmE-unsplash_medium.jpg
+hero_image: /ComputerAssistedAnimalTraining/images/kyle-hanson-1pyqUh8Jx3E-unsplash_medium.jpg
 ---
 
-## Let's make training easier  - with technology
+## Training made easier - with technology
 
 Do you still send urgent information via a letter written with a pen on paper? Or do you rely on technologies like E-Mail or What's app? There might be the right time for the letter, but in most cases, technology allows for a faster communication leading to better results. So, why then is the standard technology used in animal training a Clicker (which was invented in 1939)? Can we use 
 
