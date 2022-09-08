@@ -1,7 +1,6 @@
 ---
 title: 3BClicker
 subtitle: Two Button Bluetooth Clicker
-hero_image: /ComputerAssistedAnimalTraining/products/3BClickerNoBkgSmall.png
 description: PlanTrainDoc - Hands free!
 product_code: 3BClicker
 layout: product
