@@ -1,7 +1,7 @@
 ---
 title: Rewarder
 subtitle: Remote Treat Delivery
-hero_image: /ComputerAssistedAnimalTraining/images/james-lacy-xe_MtM-ixlw-unsplash_medium.jpg
+hero_image: /ComputerAssistedAnimalTraining/images/Reward_james-lacy-xe_MtM-ixlw-unsplash_medium.jpg
 product_code: Rewarder
 layout: product
 image: /ComputerAssistedAnimalTraining/products/PTDTreaterNoBkgSmall.png
