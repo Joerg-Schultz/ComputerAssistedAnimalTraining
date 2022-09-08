@@ -1,9 +1,8 @@
 ---
-title: TrainingCam
-subtitle: App controlled Video Camera
-product_code: TrainingCam
+title: MediGate
+subtitle: Cooperative care made easier
+product_code: MediGate
 layout: product
-image: /ComputerAssistedAnimalTraining/products/PTDCamSmall.png
 features:
 - label: Video your training
 - label: and only your training
