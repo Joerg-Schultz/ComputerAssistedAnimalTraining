@@ -21,6 +21,15 @@ In the most advanced case AI method will take over to train the dog directly.
 
 ### Make your clients training easier
 
+Becoming a good animal trainer needs years of dedicated education, training, and experience. Still, in a typical scenario, we need our clients which do not have this experience (and don't want to become an animal trainer themselves in the most cases) to continue the training at home and in their daily life. With Computer Assisted Animal Training, we can make their lives easier. Computer Assisted Animal Training can:
+
+- give detailed advice while the client trains the animal -> improve the training outcome
+- progress the training level based on previous behaviours without consultation of the trainer -> fewer consultations lower the cost for the client and allow more clients for the trainer
+- can protocol their training to get informed feedback from the trainer -> trainer can spot problems earlier
+- train the animal without intervention by the client -> higher training rates.
+
+Taken together, the client will see results in a shorter time-span with less work. And satisfied clients are the best advertisement for a trainer.
+
 ## Why not?
 Replacing the relationship. On the contrary. Clear communication with reward based training will improve your relationship.
 
